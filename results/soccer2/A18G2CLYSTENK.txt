@@ -1,0 +1,10 @@
+5,1,4,4,5
+1,2,5,4,3
+53557,14096,14855,14300,16052
+9616,5700,5873,8836,7092
+A18G2CLYSTENK
+Desktop
+32 - 38
+WiFi
+I find bitrate damage to be more tolerable than stuttering/glitching. I will turn off a video if it stutters too much. Everything seemed clear in the HIT.
+2,5,4,4,2

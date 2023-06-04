@@ -1,0 +1,10 @@
+5,1,1,1,5
+1,2,5,4,3
+43855,34264,35600,17138,16931
+15697,7794,5179,9224,6880
+A2PYXFVGNJPPX0
+Desktop
+25 - 31
+Cellular network
+Experiment Guideline is clear
+2,5,5,5,2

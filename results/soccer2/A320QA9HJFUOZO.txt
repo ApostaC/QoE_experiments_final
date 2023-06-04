@@ -1,0 +1,10 @@
+5,1,2,2,4
+1,2,3,4,5
+49054,14335,13542,25712,19146
+5376,3984,4688,3435,5098
+A320QA9HJFUOZO
+Desktop
+32 - 38
+Cable network
+Bitrate drop is preferable to glitches. Multiple glitches are worse than one long one.
+2,5,4,4,3

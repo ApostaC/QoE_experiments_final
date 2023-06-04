@@ -1,0 +1,10 @@
+5,1,2,4
+1,2,4,3
+43970,14925,14505,21256
+18833,8954,7200,9764
+AOAZMLP27GD81
+Desktop
+39 - 45
+WiFi
+A single pause at the beginning is less annoying than smaller pauses throughout as it feels like they interrupt the video more. Same with resolution decreases, it's the shifting back and forth that's more annoying than a single change
+2,5,5,3

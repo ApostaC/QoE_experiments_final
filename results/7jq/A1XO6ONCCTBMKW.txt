@@ -1,0 +1,10 @@
+5,1,1,1,5
+1,2,4,3,5
+38806,17759,16241,16875,19677
+4340,6928,4710,7000,5112
+A1XO6ONCCTBMKW
+Laptop
+25 - 31
+Cable network
+experiment guideline is clear
+2,5,5,5,2

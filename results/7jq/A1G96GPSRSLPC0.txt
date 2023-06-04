@@ -1,0 +1,10 @@
+5,1,2,2,2
+1,2,4,3,5
+58600,17002,18954,16934,20049
+5348,5351,5833,7041,6229
+A1G96GPSRSLPC0
+Desktop
+32 - 38
+Cable network
+some details of the video will be helpful
+2,5,5,5,5

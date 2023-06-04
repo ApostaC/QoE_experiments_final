@@ -1,0 +1,10 @@
+5,1,5,3,5
+1,2,3,4,5
+60110,18922,27567,20526,21713
+11090,16140,203364,30979,6444
+AOIR8V07FYMH5
+Desktop
+32 - 38
+WiFi
+If a video drops bitrate I get frustrated usually. I thought it was fairly clear. 
+2,5,2,4,2

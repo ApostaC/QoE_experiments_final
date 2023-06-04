@@ -1,0 +1,10 @@
+5,1,2,2,4
+1,2,3,5,4
+107819,27359,17248,16274,22148
+4776,8992,9035,50738,7104
+A3RYI5HXC2MJLN
+Laptop
+39 - 45
+Cable network
+Any stuttering of the stream sucks drop the bitrate let the network catch up.
+2,4,4,4,3

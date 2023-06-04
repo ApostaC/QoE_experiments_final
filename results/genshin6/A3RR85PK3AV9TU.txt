@@ -1,0 +1,10 @@
+5,1,1,1,4
+1,2,3,4,5
+88238,15251,18945,15077,16819
+16055,10411,12578,6520,6929
+A3RR85PK3AV9TU
+Desktop
+32 - 38
+Cable network
+I think hard freezes are more annoying than quality loss, because it disrupts the natural and expected continual video. And then if it skips or speeds up, it's jarring and it feels like you miss what happened. A loss in bit rate is annoying but it doesn't feel as jarring and if there's sound and action it doesn't feel like you miss as much.
+2,5,4,4,3

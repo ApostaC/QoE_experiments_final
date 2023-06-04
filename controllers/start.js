@@ -3,7 +3,7 @@ var getOder = require('../models/random');
 var fs = require('fs');
 
 
-const vid_folder = "test3";
+const vid_folder = "1";
 var vid_path = "./videos/" + vid_folder;
 var video_url = "https://raw.githubusercontent.com/ApostaC/QoE_experiments_final/master/videos/" + vid_folder + "/";
 var best_quality = video_url + "1.mp4";

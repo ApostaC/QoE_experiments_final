@@ -1,0 +1,10 @@
+5,1,2,2,5
+1,2,5,3,4
+78351,22761,16458,19316,20449
+39042,21515,14907,19903,21667
+A9YJYYOWOVCR1
+Desktop
+32 - 38
+Cable network
+when the video pauses or gets pixelated 
+2,5,5,5,2

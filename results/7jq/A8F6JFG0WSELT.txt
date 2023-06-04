@@ -1,0 +1,10 @@
+5,1,1,4,5
+1,2,4,5,3
+62070,34780,26525,36744,44674
+15697,17786,7609,30648,7860
+A8F6JFG0WSELT
+Laptop
+25 - 31
+Cable network
+Quality of the Image and the video 
+2,2,2,2,2

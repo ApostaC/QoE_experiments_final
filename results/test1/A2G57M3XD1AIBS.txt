@@ -1,0 +1,10 @@
+5,1,1,4
+1,2,3,4
+124767,18841,18861,20287
+14069,23338,9722,6748
+A2G57M3XD1AIBS
+Laptop
+25 - 31
+WiFi
+when the bitrate goes down it gets all blocky verses when a glitch happens it stops the video completely for a second or two.
+2,5,5,4

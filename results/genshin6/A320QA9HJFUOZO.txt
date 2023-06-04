@@ -1,0 +1,10 @@
+5,1,2,2,5
+1,2,4,3,5
+37524,13704,14391,14020,24512
+12351,3985,3607,85457,10970
+A320QA9HJFUOZO
+Desktop
+32 - 38
+Cable network
+Repeated interruptions or glitches are most annoying, I would prefer one long pause, then smooth playing. Glitches or pauses are generally more annoying to me than bitrate decrease
+2,5,4,4,2

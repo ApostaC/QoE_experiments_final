@@ -1,0 +1,10 @@
+5,1,1,5
+1,2,4,3
+261705,103203,38528,23406
+10634,8858,8617,16224
+A8F6JFG0WSELT
+Laptop
+25 - 31
+Cable network
+Depends on the video quality
+2,2,2,2

@@ -1,0 +1,10 @@
+5,1,2,3,5
+1,2,4,5,3
+117996,24028,44863,38441,23925
+31733,17855,12812,20499,12014
+A3QJ14Y7N8VQ42
+Laptop
+32 - 38
+WiFi
+Video glitches can wrongly communicate a scene as compared to bit rate changes
+2,5,5,5,2

@@ -1,0 +1,10 @@
+5,1,2,2,4
+1,2,3,4,5
+66197,16248,15856,15376,17975
+14596,7464,8544,4444,16332
+A207IHY6GERCFO
+Desktop
+39 - 45
+Cable network
+Lag is much more annoying. It ruins the experience when video is not continuously flowing.
+2,5,4,4,3

@@ -1,0 +1,10 @@
+5,1,2,1,4
+1,2,5,3,4
+66628,16176,15306,15739,15602
+23602,8196,9828,7117,10648
+A1DD23J1WBGQUU
+Laptop
+39 - 45
+WiFi
+The guidelines are very clear! What feels the most annoying to me is glitches that result in the video pausing during playback. I can handle degradation from bitrate decrease, but the video glitches/pauses really disrupt the flow of the video and make it unpleasant to watch.
+2,5,4,4,2
