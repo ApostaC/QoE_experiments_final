@@ -1,0 +1,10 @@
+5,1,4,4,2,4
+1,2,3,6,5,4
+267028,25900,26219,36975,61026,0
+8216,9499,31677,11162,17509,81423
+A13XXMDHOULEZ7
+Laptop
+39 - 45
+WiFi
+If the video is pixelated, it annoys me the most while watching it. I've watched videos with good quality even with relatively low sized file. Regarding the guidelines, it'd have been more helpful if a textual description of bitrate decrease and video glitch was also provided. However, I have completed the task to the best of my understanding. Thank you.
+2,5,3,3,5,3

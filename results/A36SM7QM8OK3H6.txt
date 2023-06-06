@@ -1,0 +1,10 @@
+5,5,2,4,3
+1,2,3,5,4
+74986,0,15267,12643,13990
+8072,25626,13124,3904,4049
+A36SM7QM8OK3H6
+Desktop
+32 - 38
+Cable network
+I don't like stalls because it really breaks up the flow of the video. At least when it's a bitrate decrease movement is still happening and I can still kinda follow along.
+2,2,5,3,4

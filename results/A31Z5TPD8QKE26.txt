@@ -1,0 +1,10 @@
+5,1,2,3,2
+1,2,5,4,3
+12671,12827,37365,14302,13931
+37602,3546,4829,10710,29251
+A31Z5TPD8QKE26
+Desktop
+32 - 38
+Cable network
+The reduction in bitrate was felt worse when it completely blocked the screen so much that I couldn't tell what was happening.  Bitrate decline isn't so bad when it's only a fun video and I can still vaguely tell what is happening for those few seconds.
+2,5,3,3,4

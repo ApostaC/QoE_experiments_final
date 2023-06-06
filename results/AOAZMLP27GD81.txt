@@ -1,0 +1,10 @@
+5,1,4,3,2,3
+1,2,4,5,6,3
+45886,14139,14563,15671,14178,15280
+8316,6241,6158,10027,4480,6392
+AOAZMLP27GD81
+Desktop
+39 - 45
+Cable network
+The stuttering/framerate drops that occur are far more annoying than the bitrate decreases because they interrupt the flow of the game in these particular clips. It's harder to follow what's going on and interrupts the moment
+2,5,3,5,4,5

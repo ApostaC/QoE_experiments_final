@@ -1,0 +1,10 @@
+5,1,1,4,3
+1,2,3,5,4
+32841,13349,15645,15788,14693
+5777,5529,60783,12126,8848
+AKSJ3C5O3V9RB
+Desktop
+18 - 24
+WiFi
+The first video was the worst because the bitrate reductions were the most significant and the worst in that video. The video that only had stall defects wasn't as bad as view as the one with the mild to moderate bitrate defects. Minor stalls are manageable, but the same cannot be said for mild to moderate bitrate defects given the disparate impact of the two defects categories. The guidelines and instructions were clear and easy to understand. 
+2,5,3,3,4

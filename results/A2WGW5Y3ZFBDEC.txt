@@ -1,0 +1,10 @@
+5,1,2,3,3
+1,2,5,4,3
+67201,16292,14333,14356,16702
+9400,7873,11467,9321,25368
+A2WGW5Y3ZFBDEC
+Desktop
+46 - 52
+Cable network
+For a video like this, bitrate decrease was more noticeable than stall, because the video is already slowed down.
+2,5,3,3,4
