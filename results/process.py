@@ -3,14 +3,14 @@ import numpy as np
 import os, sys
 
 def isvalid(df):
-    cond1 = df.query("videos == '5.mp4'")["sanityscore"].item() != 2
-    cond6 = df.query("videos == '5.mp4'")["scores"].item() <= df.query("videos == '4.mp4'")["scores"].item()
+    cond1 = df.query("videos == '6.mp4'")["sanityscore"].item() != 2
+    # cond6 = df.query("videos == '5.mp4'")["scores"].item() <= df.query("videos == '4.mp4'")["scores"].item()
     cond2 = df.query("videos == '1.mp4'")["scores"].item() == df["scores"].max()
     cond3 = df.query("videos == '2.mp4'")["scores"].item() == df["scores"].min()
     cond4 = df.query("videos == '1.mp4'")["sanityscore"].item() == 2
     cond5 = df.query("videos == '2.mp4'")["sanityscore"].item() == 5
     #cond6 = (df.query("videos == '3.mp4'")["sanityscore"].item() == 5) or (df.query("videos == '3.mp4'")["sanityscore"].item() == 4) 
-    return cond1 and cond2 and cond3 and cond4 and cond5 and cond6
+    return cond1 and cond2 and cond3 and cond4 and cond5 
     #return True
 
 def process_one_file(filename):
